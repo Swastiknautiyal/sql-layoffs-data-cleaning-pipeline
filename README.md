@@ -33,14 +33,22 @@ End-to-end SQL project cleaning and standardizing a layoffs dataset (duplicates 
 ---
 
 ## 📸 Demo
-👉 *(Screenshots to be added in `docs/screenshots/`)*  
-- Duplicate rows before/after cleaning  
-- Industry normalization example  
-- Final cleaned dataset  
+## 📸 Demo
 
-Example placeholder:  
-![Before Cleaning](docs/screenshots/before_cleaning.png)  
-![After Cleaning](docs/screenshots/after_cleaning.png)  
+### 🔁 Removing Duplicates
+| Before | After |
+|--------|-------|
+| ![Duplicates Before](docs/screenshots/duplicates_before.png) | ![Duplicates After](docs/screenshots/duplicates_after.png) |
+
+### 🧹 Data Cleaning
+| Before | After |
+|--------|-------|
+| ![Cleaning Before](docs/screenshots/cleaning_before.png) | ![Cleaning After](docs/screenshots/cleaning_after.png) |
+
+### 🏷️ Industry Normalization
+| Before | After |
+|--------|-------|
+| ![Industry Before](docs/screenshots/industry_before.png) | ![Industry After](docs/screenshots/industry_after.png) |
 
 ---
 
