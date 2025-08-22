@@ -38,17 +38,17 @@ End-to-end SQL project cleaning and standardizing a layoffs dataset (duplicates 
 ### 🔁 Removing Duplicates
 | Before | After |
 |--------|-------|
-| ![Duplicates Before](docs/screenshots/duplicates_before.png) | ![Duplicates After](docs/screenshots/duplicates_after.png) |
+| ![Duplicates Before](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/before_duplicates.png) | ![Duplicates After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_deletingduplicates.png ) |
 
 ### 🧹 Data Cleaning
 | Before | After |
 |--------|-------|
-| ![Cleaning Before](docs/screenshots/cleaning_before.png) | ![Cleaning After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_cleaning.png) |
+| ![Cleaning Before](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/before_cleaning.png) | ![Cleaning After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_cleaning.png) |
 
 ### 🏷️ Industry Normalization
 | Before | After |
 |--------|-------|
-| ![Industry Before](docs/screenshots/industry_before.png) | ![Industry After](docs/screenshots/industry_after.png) |
+| ![Industry Before](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/before_industry.png) | ![Industry After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_industry.png-) |
 
 ---
 
