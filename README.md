@@ -48,7 +48,7 @@ End-to-end SQL project cleaning and standardizing a layoffs dataset (duplicates 
 ### 🏷️ Industry Normalization
 | Before | After |
 |--------|-------|
-| ![Industry Before](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/before_industry.png) | ![Industry After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_industry.png-) |
+| ![Industry Before](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/before_industry.png) | ![Industry After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_industry.png) |
 
 ---
 
