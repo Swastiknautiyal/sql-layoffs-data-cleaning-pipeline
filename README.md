@@ -32,9 +32,6 @@ End-to-end SQL project cleaning and standardizing a layoffs dataset (duplicates 
 
 ---
 
-## 📸 Demo
-## 📸 Demo
-
 ### 🔁 Removing Duplicates
 | Before | After |
 |--------|-------|
