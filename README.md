@@ -51,12 +51,24 @@ The goal is to create a clean, reliable dataset and use it to uncover insights i
 |--------|-------|
 | ![Industry Before](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/before_industry.png) | ![Industry After](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/after_industry.png) |
 
+## 📊 Power BI Dashboard
+
+Here’s a preview of the interactive dashboard built in Power BI:  
+
+![Dashboard Preview](https://github.com/Swastiknautiyal/sql-layoffs-data-cleaning-pipeline/blob/main/Screenshot%20(243).png)
+
+
 ---
 
-## 🎯 Future Improvements
-- Automate the SQL pipeline using Python + MySQL connector  
-- Build an interactive dashboard in **Power BI** or **Tableau**  
-- Extend cleaning logic to other datasets for scalability  
+## 🎯 Key Learnings
+
+- Importance of staging tables and safe data cleaning in SQL.
+
+- Handling duplicates, nulls, and text inconsistencies systematically.
+
+- Using self-joins to enrich missing categorical values.
+
+- Building a structured dashboard to tell a data story.y  
 
 ---
 
