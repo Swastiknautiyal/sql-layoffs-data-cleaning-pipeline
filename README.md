@@ -17,6 +17,10 @@ End-to-end SQL project cleaning and standardizing a layoffs dataset (duplicates 
 ---
 
 ## 📖 Overview
+This project focuses on analyzing the global tech layoffs dataset from Kaggle
+. The workflow covers the end-to-end data journey — starting from raw data, performing SQL-based data cleaning, exploring patterns with EDA, and finally building an interactive Power BI dashboard for visualization.
+
+The goal is to create a clean, reliable dataset and use it to uncover insights into how layoffs varied across companies, industries, geographies, and time.
 
 ---
 
